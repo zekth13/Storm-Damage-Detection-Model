@@ -73,7 +73,8 @@ To install dependencies: `pip install -r requirements.txt `
                                                 generated with `pip freeze > requirements.txt`
 
 ## Contributors
-
-Abdullah Syarafuddin Hassan
-Muhammad Aliff Izzuddin Mohamed Anuar
-Nurul Filzah Abdul Hadi
+<ul>
+    <li>Abdullah Syarafuddin Hassan</li>
+    <li>Muhammad Aliff Izzuddin Mohamed Anuar</li>
+    <li>Nurul Filzah Abdul Hadi</li>
+</ul>
