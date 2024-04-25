@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "damagedcommercialbuilding"
+    },
+    {
+      "id": 1,
+      "name": "damagedresidentialbuilding"
+    },
+    {
+      "id": 2,
+      "name": "undamagedcommercialbuilding"
+    },
+    {
+      "id": 3,
+      "name": "undamagedresidentialbuilding"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

@@ -1,0 +1,4 @@
+damagedcommercialbuilding
+damagedresidentialbuilding
+undamagedcommercialbuilding
+undamagedresidentialbuilding

@@ -1,0 +1,4 @@
+Damaged Commercial Building
+Damaged Residential Building
+Undamaged Commercial Building
+Undamaged Residential Building
